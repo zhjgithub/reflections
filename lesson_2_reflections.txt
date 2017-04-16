@@ -12,6 +12,8 @@ What value do you think it offers?
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+    - I can only add changes that want to commit to the staging area and the other changes are still in working directory and untracked.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
