@@ -31,4 +31,6 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    - Useing Pull request on GitHub when incorporate commits to main branch need to fork repository and create a new branch and push commits to it.
+    - Could check all be well done before merge the commits to the main branch.
+    - Although it is complicated than work with one branch.
